@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.light-green-sts{
+  background-color: #13ad89;
+}
+
+.sky-blue{
+  background-color: #61dafb;
+}
+h1{
+color: #13ad89;
+}
+h2{
+  text-align: left;
+}
